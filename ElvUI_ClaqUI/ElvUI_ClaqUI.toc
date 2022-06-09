@@ -1,0 +1,11 @@
+## Interface: 90205
+## Author: Urthysis
+## Version: 0.2
+## Title: |cff1784d1ElvUI|r |c5c358584ClaqUI|r
+## Notes: Contains layouts from Claqueta
+## RequiredDeps: ElvUI,ElvUI_WindTools
+## OptionalDeps: BigWigs, Plater, Details
+## DefaultState: enabled
+
+Code.lua
+media\load_media.xml
